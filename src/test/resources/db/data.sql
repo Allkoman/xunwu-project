@@ -1,4 +1,4 @@
-INSERT INTO `user`(`id`, `name`, `email`, `phone_number`, `password`, `status`, `last_login_time`) VALUES (1, 'wali',
+INSERT INTO `user`(`id`, `name`, `email`, `phone_number`, `password`, `status`, `last_login_time`) VALUES (1, 'czhang',
 'wali@imooc.com', '13888888888', 'wali', 1, NOW());
 INSERT INTO `user`(`id`, `name`, `email`, `phone_number`, `password`, `status`, `last_login_time`) VALUES (2, 'admin',
 'admin@imooc.com', '13999999999', '55b3d0936a3fb63168d57a6bda0ddbbf', 1, NOW());
